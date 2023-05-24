@@ -34,3 +34,7 @@ This work focuses on the following subjects (non exhaustive):
 ![image](https://github.com/YsfAnnaki/Causality-Inference-XAI/assets/134018406/4e03a4dc-433f-4a6e-80d7-e1e5fe4bfaef) with 
 ![image](https://github.com/YsfAnnaki/Causality-Inference-XAI/assets/134018406/3422aac9-15aa-4099-ba5c-fb7094d02822)
 
+- Optimal estimation of the Shapley values and optimized parallel computing.
+
+## Some Results
+
